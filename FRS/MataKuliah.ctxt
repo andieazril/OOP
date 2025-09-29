@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MataKuliah
+comment1.params=kode\ nama\ kapasitas\ dosen
+comment1.target=MataKuliah(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getKode()
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=int\ getKapasitas()
+comment5.params=
+comment5.target=void\ kurangiKapasitas()
+comment6.params=
+comment6.target=java.lang.String\ getDosen()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
