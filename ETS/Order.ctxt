@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=snack\ quantity
+comment1.target=Order(Snack,\ int)
+comment2.params=
+comment2.target=double\ calculate()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment4.params=
+comment4.target=java.lang.String\ getDescription()
+numComments=5

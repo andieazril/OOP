@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Stock
+comment1.params=
+comment1.target=Stock()
+comment2.params=qty
+comment2.target=boolean\ isEnough(int)
+comment3.params=qty
+comment3.target=void\ useStock(int)
+numComments=4
