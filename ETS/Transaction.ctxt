@@ -1,7 +1,5 @@
 #BlueJ class context
 comment0.target=Transaction
 comment1.params=order\ price
-comment1.target=void\ saveLog(Order,\ double)
-comment2.params=
-comment2.target=void\ showLog()
-numComments=3
+comment1.target=void\ saveLog(Order,\ int)
+numComments=2

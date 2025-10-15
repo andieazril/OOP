@@ -2,7 +2,7 @@ public class Stock {
     private int snackStock;
 
     public Stock() {
-        this.snackStock = 100;
+        this.snackStock = 10;
     }
 
     public boolean isEnough(int qty) {

@@ -58,10 +58,10 @@ public class Main {
 
                     if (!stock.isEnough(qty)) {
                         System.out.println("Stok tidak cukup. Panggil admin untuk refill.");
-                        break;
+                            break;
                     }
 
-                    double price = order.calculate();
+                    int price = order.calculate();
                     Payment payment = new Payment(price);
 
                     if (payment.process()) {

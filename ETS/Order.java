@@ -7,7 +7,7 @@ public class Order {
         this.quantity = quantity;
     }
 
-    public double calculate() {
+    public int calculate() {
         return snack.getPrice() * quantity;
     }
 
@@ -16,6 +16,6 @@ public class Order {
     }
 
     public String getDescription() {
-        return snack.getName() + " x" + quantity;
+        return snack.getName() + " (" + quantity + ")";
     }
 }
