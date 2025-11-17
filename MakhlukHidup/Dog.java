@@ -1,4 +1,3 @@
-// Implementasi Animal: Dog
 public class Dog extends Animal {
     public Dog(String name) {
         super(name);

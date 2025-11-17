@@ -1,4 +1,3 @@
-// Implementasi Human: Programmer
 public class Programmer extends Human {
     public Programmer(String name) {
         super(name);

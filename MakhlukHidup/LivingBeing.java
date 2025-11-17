@@ -1,4 +1,3 @@
-// Kelas abstrak LivingBeing (makhluk hidup umum)
 public abstract class LivingBeing {
     private String name;
 
@@ -10,11 +9,9 @@ public abstract class LivingBeing {
         return name;
     }
 
-    // Method konkret: sebagian makhluk hidup punya napas
     public void breathe() {
         System.out.println(name + " is breathing.");
     }
 
-    // Method abstrak: setiap makhluk hidup tumbuh dengan cara berbeda
     public abstract void grow();
 }

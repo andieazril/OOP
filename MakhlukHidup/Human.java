@@ -1,4 +1,3 @@
-// Subkelas abstrak Human
 public abstract class Human extends LivingBeing {
     public Human(String name) {
         super(name);

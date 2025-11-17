@@ -1,4 +1,3 @@
-// Main class untuk demo
 public class Main {
     public static void main(String[] args) {
         Human programmer = new Programmer("Alice");

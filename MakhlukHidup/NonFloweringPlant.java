@@ -1,4 +1,3 @@
-// Implementasi Plant: NonFloweringPlant (tanaman tanpa bunga)
 public class NonFloweringPlant extends Plant {
     public NonFloweringPlant(String name) {
         super(name);

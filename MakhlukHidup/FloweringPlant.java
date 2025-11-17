@@ -1,4 +1,3 @@
-// Implementasi Plant: FloweringPlant (tanaman berbunga)
 public class FloweringPlant extends Plant {
     public FloweringPlant(String name) {
         super(name);
