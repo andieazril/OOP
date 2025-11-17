@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Simulator
+comment1.params=
+comment1.target=Simulator()
+comment2.params=
+comment2.target=void\ populate()
+comment3.params=
+comment3.target=Location\ randomFreeLocation()
+comment4.params=numSteps
+comment4.target=void\ simulate(int)
+comment5.params=
+comment5.target=void\ simulateOneStep()
+comment6.params=
+comment6.target=void\ printStats()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
