@@ -1,4 +1,4 @@
-public abstract class Kendaraan {
+public class Kendaraan {
     protected String merk;
     protected String model;
     protected int tahunProduksi;
@@ -9,5 +9,7 @@ public abstract class Kendaraan {
         this.tahunProduksi = tahunProduksi;
     }
 
-    public abstract void info();
+    public void info() {
+        System.out.println("Kendaraan: " + merk + " " + model + " (" + tahunProduksi + ")");
+    }
 }
