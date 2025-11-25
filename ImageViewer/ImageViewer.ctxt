@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ImageViewer
+comment1.params=
+comment1.target=ImageViewer()
+comment2.params=
+comment2.target=void\ openImage()
+comment3.params=factor
+comment3.target=void\ changeZoom(double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
